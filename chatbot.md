@@ -55,7 +55,6 @@ Les descriptions de la rubrique 2 figurent ici.
 ## option 1 rubrique 2
 Voici l’option 1 de la rubrique 2 …
 
-<! Un commentaire >
 
 ![une image](https://i.ibb.co/5Xf24CZF/ordiimage.avif)
 
@@ -64,7 +63,6 @@ Voici l’option 1 de la rubrique 2 …
 
 ## option 2 rubrique 2
 Voici l’option 2 de la rubrique 2 …
-
 1. [J'ai compris, je vous remercie](remerciements) 
 2. [Retour au message initial]()
 
